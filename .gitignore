@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.RawgSharp/.idea/discord.xml
+.idea/.idea.RawgSharp/.idea/encodings.xml
+.idea/.idea.RawgSharp/.idea/misc.xml
